@@ -1,5 +1,5 @@
 #!/bib/bash
-echo -n "please enter your name: " 
+echo -n "please enter your name1: " 
 read name 
 echo "please enter your team: " 
 read team 
